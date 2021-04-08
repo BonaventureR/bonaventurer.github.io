@@ -1,7 +1,7 @@
-# Bon-website
+# Bonaventure Raj - Website
 
 
-Version :
-  ~ Last Updated March 1st, 2019
-  
-  Made with Material UI
+Version:
+  ~ Last Updated April 8th, 2021
+
+Made with Material CSS
